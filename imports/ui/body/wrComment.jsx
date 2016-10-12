@@ -11,12 +11,6 @@ export default class Comment extends Component {
         this.state({ name : event.target.value })
     }
 
-    sendComment(id) {
-        posts.map(e => {
-            if(e._id == id) e.comments.push([this.state.name, this.state.text])
-        })
-    }
-
     render() {
         return (
             <div className="block-wrComment">

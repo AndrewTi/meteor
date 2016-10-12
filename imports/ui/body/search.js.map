@@ -1,1 +1,0 @@
-{"version":3,"sources":["search.jsx"],"names":[],"mappings":";;;;;;;;AAAA;;;;;;;;;;;;IAGqB,M;;;;;;;;;;;+BACV,I,EAAM,CAEZ;;;iCAEQ;AACL;AACH;;;;;;kBAPgB,M","file":"search.js","sourcesContent":["import React, { Component } from \"react\";\n\n\nexport default class Search extends Component {\n    search(data) {\n\n    }\n\n    render() {\n        return \n    }\n}"]}

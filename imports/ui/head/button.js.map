@@ -1,1 +1,0 @@
-{"version":3,"sources":["button.jsx"],"names":[],"mappings":";;;;;;;;AAAA;;;;;;;;;;;;IAEqB,M;;;;;;;;;;;iCACR,CAER;;;;;;kBAHgB,M","file":"button.js","sourcesContent":["import React, { Component } from \"react\";\n\nexport default class button extends Component {\n    render() {\n        \n    }\n}"]}

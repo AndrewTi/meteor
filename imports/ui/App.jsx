@@ -8,7 +8,10 @@ import Footer from "./footer/footer.jsx";
 export default class App extends Component {
     render() {
         return (
-            <Head />
+            <div >
+                <Head />
+                <Body />
+            </div>
         );
     }
 }

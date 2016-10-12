@@ -35,3 +35,30 @@ body {
 .menu > .buttons > .button > .link:hover {
     opacity: 0.8;
 }
+
+.body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.body > .block-search {
+    max-width: 700px;
+    width: 100%;
+    height: 35px;
+    background: red;
+}
+
+.body > .block-search > .search {
+    width: 100%;
+    height: 100%;
+}
+
+.body > .block-post {
+
+}
+
+.body > .block-post > .post {
+    border-bottom: 1px solid black;
+}

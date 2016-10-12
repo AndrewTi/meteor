@@ -1,1 +1,0 @@
-{"version":3,"sources":["main.jsx"],"names":[],"mappings":";;AAAA;;;;AACA;;AACA;;;;AAEA,IAAI,OAAO,gBAAM,WAAN,GAAoB,YAAM,CAEpC,CAFD","file":"main.js","sourcesContent":["import React from \"react\";\nimport { Meteor } from  \"meteor/meteor\";\nimport { render } from \"react-dom\";\n\nlet test = React.createClass = () => {\n    \n};"]}

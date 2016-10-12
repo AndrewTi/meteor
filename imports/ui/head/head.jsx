@@ -5,9 +5,9 @@ import Button from "./button.jsx";
 export default class Head extends Component {
     getButtons() {
         return [
-            {_id: 1, text: "Home", url: "#"},
-            {_id: 2, text: "Photo", url: "#"},
-            {_id: 3, text: "Contact", url: "#"}
+            {_id: 1, text: "Home", url: "/"},
+            {_id: 2, text: "Photo", url: "/photo"},
+            {_id: 3, text: "Contact", url: "/contact"}
         ]
     }
 
